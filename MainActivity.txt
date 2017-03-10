@@ -1,1 +1,3 @@
 This is the main activity Java file
+
+Now I modify the Java file with some updates
